@@ -1,0 +1,2 @@
+# wiki-API
+REST API
